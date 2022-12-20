@@ -2,8 +2,8 @@
  Seating chart app for Hibachi restaurant
 
 ## Screenshots:
-![Main screen of the app](https://raw.githubusercontent.com/jpass23/Ichiban/main/Screenshots/Main%20Screen.png "Main Screen of the App")
+<img src="https://raw.githubusercontent.com/jpass23/Ichiban/main/Screenshots/Main%20Screen.png" alt="drawing" width="250"/>
 
-![Server Pop-up](https://raw.githubusercontent.com/jpass23/Ichiban/main/Screenshots/Add%20Server.png "Pop up to add a server")
+<img src="https://raw.githubusercontent.com/jpass23/Ichiban/main/Screenshots/Add%20Server.png" alt="drawing" width="250"/>
 
-![Assigning Server](https://raw.githubusercontent.com/jpass23/Ichiban/main/Screenshots/Set%20Server.png "Alert to assign a server to a table")
+<img src="https://raw.githubusercontent.com/jpass23/Ichiban/main/Screenshots/Set%20Server.png" alt="drawing" width="250"/>
