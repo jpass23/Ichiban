@@ -74,7 +74,7 @@ struct HibachiView: View {
             VStack {
                 HStack { // Title
                     Spacer()
-                    Text("Hibachi")
+                    Text("Hibachi Seating")
                         .font(.system(size: 80))
                         .foregroundColor(.white)
                         .padding()
