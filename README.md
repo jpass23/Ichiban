@@ -21,4 +21,4 @@ This app's landing screen has twelve rectangles that each represent one of the h
 This app also includes the functionality to add the servers for the day and each table can be assigned a server. The "Servers" pop-up window will then keep track of how many tables each server has had that particular day as well as how many customers in total they have interacted with.
 
 ## Design Structure
-This was the first larger scale project I did in Swift so since I had limited knowledge, I didn't try to conform to any particular design pattern.
+This was the first larger scale project I did in Swift so since I had limited knowledge, I didn't try to conform to any particular design pattern (such as MVVM) other than following object oriented programming.
